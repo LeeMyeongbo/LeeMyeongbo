@@ -1,5 +1,5 @@
 
-<h3 align="center"><b>🌱Thingbo's Github🌱</b></h3>
+## <h3 align="center"><b>🌱Thingbo's Github🌱</b></h3>
 
 <h3 align="center"><b>🛠 Using Language 🛠</b></h3>
 </br>
