@@ -1,8 +1,6 @@
 
 ### Thingbo's github 입니다.🌱
-
-### :wrench: Using Language
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Using Language 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp
