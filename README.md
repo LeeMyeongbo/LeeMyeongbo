@@ -1,5 +1,5 @@
 
-### Thingbo's github 입니다.🌱
+<h3 align="center"><b>Thingbo's github 입니다.🌱</b></h3>
 <h3 align="center"><b>🛠 Using Language 🛠</b></h3>
 </br>
 <p align="center">
