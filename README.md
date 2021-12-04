@@ -1,5 +1,7 @@
 
-## Thingbo's github 입니다.
+### Thingbo's github 입니다.🌱
+
+### Using Language : c/c++, java, python, etc...
 
 <!--
 **LeeMyeongbo/LeeMyeongbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
