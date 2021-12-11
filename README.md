@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋, I'm LeeMyeongbo</h2>
-
 <h3 align="left">🛠 Using Language 🛠</h3>
 <p align="left"> 
 <a href="https://github.com/LeeMyeongbo/Algorithm.git" target="_blank" rel="noreferrer">
