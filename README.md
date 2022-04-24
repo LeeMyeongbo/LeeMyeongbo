@@ -12,6 +12,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> &nbsp
 <a href="https://github.com/LeeMyeongbo/AndroidApps.git" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> &nbsp 
-<a href="https://github.com/LeeMyeongbo/AndroidApps.git" target="_blank" rel="noreferrer">
+<a href="https://github.com/LeeMyeongbo/KotlinStudy.git" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a> &nbsp
 </p>
