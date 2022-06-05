@@ -15,5 +15,5 @@
 <a href="https://github.com/LeeMyeongbo/KotlinStudy.git" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a> &nbsp
 <a href="https://github.com/LeeMyeongbo/MyWeb.git" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="javascript" width="50" height="50" style="background-color:yellow;"/> </a> &nbsp
+<img src="https://user-images.githubusercontent.com/69099083/172044032-5c0b9d51-e0a2-4877-8bee-0b605af252f4.png" alt="django" width="50" height="50"/> </a> &nbsp
 </p>
